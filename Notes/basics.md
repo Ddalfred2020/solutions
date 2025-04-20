@@ -11,4 +11,4 @@ the anchor element is use to link to another page or website,<a>youtube</a> this
 <a href="www.youtube.com" target="_blank">youtube</a>.if you use the blank target attribute it will be open in the current page, but if you use the target="_blank" it will be open in a new tab
 
 ### some terms used
-**syntax** is the rule guilding coding, just as will have the rule guilding english language which is grammar, the difference is that if you broke the rule of syntax the code will not compile but in english language people will still understand you
+**syntax** is the rule guilding coding, just as will have the rule guilding english language which is grammar, the difference is that if you broke the rule of syntax the code will not compile but in english language people will still understand you but different meaning.
