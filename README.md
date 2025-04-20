@@ -4,5 +4,5 @@
 
 #### 2025-18-04
 
-- planning a video on gittube on youtube soon
+- planning a video on gittube on youtube soon, next month.
  
