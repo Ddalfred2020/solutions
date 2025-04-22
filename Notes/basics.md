@@ -3,8 +3,9 @@ The full meaning of html is hyperText markup language, it is use in building web
 
 ## Html Elements
 Html elements are the elements displayed on the website.
-
-  ~<button>send</button>~
+  ~~~
+  <button>send</button>
+  ~~~
 
 is an example of a button element.
 an html element is created with  less than symbol follwed by the button name greater than symbol  followed by the
