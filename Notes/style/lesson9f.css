@@ -1,0 +1,48 @@
+
+
+p{
+  margin: 0;
+}
+.cat-div{
+  width: 200px;
+  height:300px ;
+  border: 2px solid gray;
+  display: inline-block;
+  margin-right: 10px;
+
+ 
+}
+.oliver{
+  font-size: 20px;
+  font-weight: bold;
+  color:black;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  margin-left: 4px;
+}
+.mutual{
+  font-size: 14px;
+  color: gray;
+  margin-bottom: 20px;
+  margin-left: 4px;
+}
+.button-friend{
+  background-color: blue;
+  color: white;
+  border-style: solid;
+  height:25px ;
+  border-color: black;
+  border-width:2px ;
+  margin-left: 4px;
+  padding-left: 10px;
+  padding-right: 10px;
+
+}
+.image-cat{
+  width:200px;
+
+}
+.big{
+  padding: 10px;
+}
+
