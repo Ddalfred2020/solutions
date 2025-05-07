@@ -18,8 +18,8 @@
       vertical-align: middle;
     }
     .google-div{
-      height: 50px;
-      border-radius:25px;
+      height: 40px;
+      border-radius:20px;
       border-width: 1px;
       border-style: solid;
       border-color: black;
@@ -46,10 +46,9 @@
       background-color: blue;
       color: white;
       font-size: 12px;
-      padding:7px;
+      padding:4px;
       border-radius: 3px;
       border-style: solid;
-      
     }
-   
+  
   

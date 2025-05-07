@@ -1,17 +1,10 @@
 
 
+
 p{
   margin: 0;
 }
-.cat-div{
-  width: 200px;
-  height:180px ;
-  border: 2px solid gray;
-  display: inline-block;
-  margin-right: 10px;
 
- 
-}
 .oliver{
   font-size: 20px;
   font-weight: bold;
@@ -38,14 +31,13 @@ p{
   padding-right: 10px;
 
 }
-.image-cat{
-  width:200px;
-
+.button-image{
+  margin-top: 23px;
 }
+
+  
 .big{
   margin-left: 5px;
-  display:inline-block;
-  width: 200px;
   border: 1px solid gray;
   padding-bottom: 5px;
 }
@@ -53,16 +45,17 @@ p{
 display: inline-block;
 width:50px ;
 }
-.div-olive1{
-display: inline-block;
- width:150px;
-}
+
 .image-cat1{
-  height: 20px;
+  height: 15px;
   border-radius: 10px;
   border-color: black;
   border-style: solid;
   border-width: 1px;
+ 
+}
+.image-cat{
+  height: 150px;
  
 }
 .house{
@@ -84,4 +77,12 @@ display: inline-block;
   margin-left: 4px;
   margin-bottom: 4px;
 }
+.button-cat6{
+  margin-top: 23px;
+}
 
+.grid-big{
+  display: grid;
+  grid-template-columns: 168px 168px 168px;
+  column-gap:10px ;
+}
